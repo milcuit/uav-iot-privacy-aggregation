@@ -98,5 +98,4 @@ This check is separate from the paper's main result.
 
 ## License
 
-The code is released under the MIT License. Replace the copyright holder in
-`LICENSE` before publishing the repository.
+MIT License. See [LICENSE](LICENSE) for details.
