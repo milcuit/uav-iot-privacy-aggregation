@@ -6,7 +6,7 @@ This repository contains the implementation and experimental code for the paper:
 
 **"Practical Collusion-Resistant Privacy-Preserving Aggregation for UAV-Assisted IoT"**
 
-*Note: This paper is currently under preparation. Citation information will be updated upon publication.*
+*Submitted to IEEE Transactions on Dependable and Secure Computing (TDSC), currently under review.*
 
 ## Overview
 
