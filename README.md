@@ -1,5 +1,15 @@
 # UAV mobility and threshold-recovery experiments
 
+## About
+
+This repository contains the implementation and experimental code for the paper:
+
+**"Practical Collusion-Resistant Privacy-Preserving Aggregation for UAV-Assisted IoT"**
+
+*Note: This paper is currently under preparation. Citation information will be updated upon publication.*
+
+## Overview
+
 This repository contains the simulator, input data, and result files for the
 UAV mobility evaluation in the paper. The recovery stage models the following
 exchange: after aggregation, the CC selects `t` terminals, sends one ciphertext
